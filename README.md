@@ -1,7 +1,8 @@
 # Costa Coffee Sales Analysis Dashboard
 ## 📷 Dashboard Preview
 ![Costa Coffee Dashboard Screenshots](https://github.com/himadree77/Costa_Coffee/blob/main/Costa%20Coffee%20%20Dashboard.png)
-
+![Costa Coffee Dashboard Screenshots](https://github.com/himadree77/Costa_Coffee/blob/main/Costa%20Coffee%20Pivot%20table%201.png)
+![Costa Coffee Dashboard Screenshots](https://github.com/himadree77/Costa_Coffee/blob/main/Costa%20Coffee%20Pivot%20table%202.png)
 
 ##  Project Overview
 Developed an interactive Excel dashboard to analyze Costa Coffee sales data and provide insights into sales performance, customer behavior, product profitability, and store performance. The dashboard enables business users to monitor key metrics and make data-driven decisions.
